@@ -1,34 +1,7 @@
-
-<!doctype html>
-<html dir="ltr" lang="en">
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
-
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100="new_tab_page.js"></et" href="chrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
+ href="shared_vars.css">
   </body>
-      [show-background-image] #backgrounhref="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-<!doctype html>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
     <title>New Tab</title>
     <style
-      body {
-        background: #FFFFFF;
-        margin: 0;
-      }
-
-      #backgroundImage {
-        border: none;
         height: 100%;
         pointer-events: none;
         position: fixed;
