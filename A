@@ -1,30 +1,25 @@
  href="shared_vars.css">
   </body>
     <title>New Tab</title>
-    <style
-        background: #FFFFFF;
+    <stylesdffsd
         margin: 0;
       }
-
+sdf
 
       [show-background-image] #backgroundImage {
-        visibility: visible;
+        visibility: visibledsfsdfsddf
       }
     </style>
   </head>
-  <body>
+  <body>sdfsd
     <iframe id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
-    <script type="module" src="new_tab_page.js"></script>
+    <ntp-app></ntp-app>sdfssdf src="new_tab_fpage.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
+    <link rel="stylesheet" href="shared_vars.fsdfcss">
   </body>
-</html>
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
+</html>sdd
+      body {fsdnd: #FFFFFF;
         margin: 0;
       }
 
