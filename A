@@ -8,19 +8,14 @@ sdf
   </body>
 </html>
     <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;hjghjgh
-      }
-
-      #backgroundImage {
+iuoioui
+      #backgroundImage {uio
         border: none;
-        height: 100%;
+        height: 100%;o
         pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
+        position: fixed;uopuioo
+        visibility: hidden;ui
+        width: 100%;uioui
       }
 
       [show-background-image] #backgroundImage {
