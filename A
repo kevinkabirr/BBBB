@@ -2,26 +2,18 @@ dhghsdvsdv href="shared_vars.css">
   </body>
     <title>New Tab</title>
     <stylesdffsd
-        margin: 0;hfgh
-      }vsdv
-sdf
-  </body>ghfg
-</html>fghf
-    <style>
-iuoiouigh
-      #backgroundImage {uio
-        border: none;
+        margin: 0;hfghsc
         height: 100%;o
         pointer-events: none;
         position: fixed;uopuioofghfgh
         visibility: hidden;ui
-        width: 100%;uioui
+        width: 100%;uiouiascasc
       }
 fghf
       [show-background-image] #backgroundImage {
         visibility: visible;
       }
-    </style>
+    </style>ascasc
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
