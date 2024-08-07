@@ -4,18 +4,7 @@ Image" src=""></iframe>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
-  </body>
-        margin: 0;
-      }
-
-      #backgroundImage {
-        border: none;
-        visibility: visible;
-      }
-    </style>
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></iframe>
+  </body>me>
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
