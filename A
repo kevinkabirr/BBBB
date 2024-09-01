@@ -1,34 +1,24 @@
 ></iframe>VSF
         position: fixed;DFSDF
       }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
-    <script type="module" src="new_tab_page.js"></script>
+b_page.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
-  </body>
+  </body>SDFDSF
 </html
-<!doctype html>
+<!doctype html>SDF
 <html dir="ltr" lang="en">
-  <head>
+  <head>DFSDF
     <meta charset="utf-8">
-    <title>New Tab</title>
+    <title>New Tab</title>SDF
     <style>
-      body {
-        background: #FFFFFF;
+      body {FSDF
         margin: 0;
       }
-
+SDF
       #backgroundImage {
-        border: none;
+        border: none;SDFSDFSDFSDF
         height: 100%;
         pointer-events: none;
         position: fixed;
