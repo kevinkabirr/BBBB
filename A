@@ -1,13 +1,4 @@
-></iframe>VSF
-        position: fixed;DFSDF
-      }
-b_page.js"></script>
-    </style>
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></iframe>
-        background: #FFFFFF;
-      [show-background-image] #backgroundImage {
+roundImage {
         visibility: visible;
       }
     </style>
