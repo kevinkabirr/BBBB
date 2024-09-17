@@ -1,39 +1,24 @@
-
-      }
-    </style>
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
-    <script type="module" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
+BIOJ
 </html>
 
 <!doctype html>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
+<html dir="ltr" lang="en">OJ
+  <head>O
       body {
         background: #FFFFFF;
         margin: 0;
-      }
-
-      #backgroundImage {
+      }OJ
+O
         border: none;
         height: 100%;
-        pointer-events: none;
+        pointer-events: none;J
         position: fixed;
         top: 0;
         visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
+        width: 100%;I
+      }JIO
+O
+      [show-background-image] #backgroundImage {IIJOJOJOJO
         visibility: visible;
       }
     </style>
