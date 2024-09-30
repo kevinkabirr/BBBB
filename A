@@ -13,7 +13,7 @@
         visibility: visible;
       }
     </style>
-  </head>
+  </head>VVVV
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
